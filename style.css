@@ -13,7 +13,7 @@ body {
 
 .paper {
   background-image: url("paper.jpg");
-  background-size: 400px;
+  background-size: 300px;
   background-position: center center;
   padding: 70px 70px;
 /*  min-width: 800px; */
@@ -24,10 +24,10 @@ body {
   position: absolute;
 }
 .paper.image {
-  padding: 20px;
+  padding: 15px;
 }
 .paper.image p {
-  font-size: 30px;
+  font-size: 25px;
 }
 
 img {
@@ -44,5 +44,5 @@ p {
   user-select: none;
   text-align: center;
   
-  // filter: drop-shadow(2px 1.5px 1px rgba(0,0,105,0.9));
+  filter: drop-shadow(2px 1.5px 1px rgba(0,0,105,0.9));
 }
