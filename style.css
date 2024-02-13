@@ -28,6 +28,7 @@ body {
 }
 .paper.image p {
   font-size: 25px;
+  text-align: center;
 }
 
 img {
@@ -37,8 +38,8 @@ img {
 }
 
 video {
-  max-height: 350px;
-  min-width: 10%;
+  max-height: 300px;
+  min-width: 15%;
   user-select: none;
 }
 
