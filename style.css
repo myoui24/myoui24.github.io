@@ -36,6 +36,12 @@ img {
   user-select: none;
 }
 
+video {
+  max-height: 300px;
+  width: 100%;
+  user-select: none;
+}
+
 p {
   font-family: 'Zeyada';
   font-size: 30px;
@@ -44,5 +50,5 @@ p {
   user-select: none;
   text-align: center;
   
-  filter: drop-shadow(2px 1.5px 1px rgba(0,0,105,0.9));
+  // filter: drop-shadow(2px 1.5px 1px rgba(0,0,105,0.9));
 }
