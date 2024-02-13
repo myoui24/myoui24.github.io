@@ -15,7 +15,7 @@ body {
   background-image: url("paper.jpg");
   background-size: 300px;
   background-position: center center;
-   padding: 70px 70px;
+  padding: 20px 70px;
   min-height: 200px;
   min-width: 100px;
   
@@ -37,8 +37,8 @@ img {
 }
 
 video {
-  max-height: 300px;
-  width: 10%;
+  max-height: 350px;
+  min-width: 10%;
   user-select: none;
 }
 
